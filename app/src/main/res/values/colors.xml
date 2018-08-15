@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39796b</color>
+    <color name="colorPrimaryDark">#397000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTopBarDark">#616161</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="btnSignup">#39796b</color>
+    <color name="btnSignActive">#A6d440</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+
+</resources>

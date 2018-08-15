@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242485197889",
+    "firebase_url": "https://myapp-ca10d.firebaseio.com",
+    "project_id": "myapp-ca10d",
+    "storage_bucket": "myapp-ca10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242485197889:android:31f3b1c7d6dae644",
+        "android_client_info": {
+          "package_name": "socialapp.rathore.com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242485197889-djronuah6nra7f17t0cn7a7kq5l75pii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "socialapp.rathore.com.myapp",
+            "certificate_hash": "6953664ef2b531039eb711b719164e149976da49"
+          }
+        },
+        {
+          "client_id": "242485197889-1najkm8bov3pkd8lf5rrok5hkp99mb80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnxn_4DBjifyCtsoRRZbuHgxxZjsHojQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242485197889-1najkm8bov3pkd8lf5rrok5hkp99mb80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
